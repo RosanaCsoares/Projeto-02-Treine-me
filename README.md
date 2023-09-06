@@ -10,7 +10,7 @@ O Explorer é um programa completo que reúne tudo o que você precisa para dese
 <br>
 
 <p align="center">
-  <img alt="projeto Flutuar" src="https://raw.githubusercontent.com/Lucasrsillva2000/Projeto-01-explorer-desafio02/main/.github/preview.jpg" width="100%">
+  <img alt="projeto Treine-me" src="https://user-images.githubusercontent.com/109491659/212572281-6a2f9c15-961e-404e-b6d3-dc482c79832b.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Treine-me é a recriação do layout destinado a apresentar conceitos básicos de HTML e CSS.
 
 - Textos, posicionamentos, espaçamentos e introdução a novas propriedades;
-- tags semânticas do HTML como 'header', 'nav', 'ul', 'li', 'main', 'section' e 'footer';
+- Tags semânticas do HTML como 'header', 'nav', 'ul', 'li', 'main', 'section' e 'footer';
 - Conceitos de Box Model do CSS;
 - Diferença entre "margin" e "padding" e estilização do projeto;
 - Utilização da ferramenta "DevTools", que vem por padrão em nosso navegador, para vermos, na prática, o conceito de Box Model e suas funcionalidades;
@@ -41,7 +41,7 @@ O Treine-me é a recriação do layout destinado a apresentar conceitos básicos
 - Utilizar a 'função linear-gradient()', entendendo suas propriedades e visualizando o resultado do gradiente no pelo navegador.
 
 - [Visite o projeto online](https://rosanacsoares.github.io/Flutuar-desafio02/)
-
+<br/>  
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yTzJVXKZnbNfhUVcjMNChV/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&mode=design&t=jxY8QdiQprFusLnp-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
