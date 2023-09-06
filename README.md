@@ -40,7 +40,7 @@ O Treine-me é a recriação do layout destinado a apresentar conceitos básicos
 - Novas propriedades do CSS como: background, cursor e border-radius;
 - Utilizar a 'função linear-gradient()', entendendo suas propriedades e visualizando o resultado do gradiente no pelo navegador.
 
-- [Visite o projeto online](https://rosanacsoares.github.io/Flutuar-desafio02/)
+- [Visite o projeto online](https://rosanacsoares.github.io/Projeto-02-Treine-me/)
 <br/>  
 ## 🔖 Layout
 
