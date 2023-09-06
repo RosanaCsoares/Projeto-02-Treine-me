@@ -10,7 +10,7 @@ O Explorer é um programa completo que reúne tudo o que você precisa para dese
 <br>
 
 <p align="center">
-  <img alt="projeto Treine-me" src="https://user-images.githubusercontent.com/109491659/212572281-6a2f9c15-961e-404e-b6d3-dc482c79832b.png" width="100%">
+  <img alt="projeto Treine-me" src="https://raw.githubusercontent.com/igorsilvam/Treine.me/master/img/imgfront.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
