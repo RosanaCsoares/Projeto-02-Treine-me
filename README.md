@@ -39,9 +39,8 @@ O Treine-me é a recriação do layout destinado a apresentar conceitos básicos
 - Estilização do botão da página;
 - Novas propriedades do CSS como: background, cursor e border-radius;
 - Utilizar a 'função linear-gradient()', entendendo suas propriedades e visualizando o resultado do gradiente no pelo navegador.
-
 - [Visite o projeto online](https://rosanacsoares.github.io/Projeto-02-Treine-me/)
-<br/>  
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/yTzJVXKZnbNfhUVcjMNChV/Explorer---Projeto-02-(Copy)?type=design&node-id=1-5&mode=design&t=jxY8QdiQprFusLnp-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
